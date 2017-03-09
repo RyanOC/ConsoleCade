@@ -1,9 +1,0 @@
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\TestGame2\bin\Debug\Abstracts.dll
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\TestGame2\bin\Debug\Abstracts.pdb
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\TestGame2\bin\Debug\TestGame2.dll
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\TestGame2\bin\Debug\TestGame2.pdb
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\ConsoleCade\Games\TestGame2.dll
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\ConsoleCade\Games\TestGame2.pdb
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\TestGame2\obj\Debug\TestGame2.csprojResolveAssemblyReference.cache
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\TestGame2\obj\Debug\TestGame2.dll
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\TestGame2\obj\Debug\TestGame2.pdb

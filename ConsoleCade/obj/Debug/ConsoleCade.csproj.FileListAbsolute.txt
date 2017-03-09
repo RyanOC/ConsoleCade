@@ -1,8 +1,0 @@
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\ConsoleCade\bin\Debug\ConsoleCade.exe.config
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\ConsoleCade\bin\Debug\ConsoleCade.exe
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\ConsoleCade\bin\Debug\ConsoleCade.pdb
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\ConsoleCade\bin\Debug\Abstracts.dll
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\ConsoleCade\bin\Debug\Abstracts.pdb
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\ConsoleCade\obj\Debug\ConsoleCade.csprojResolveAssemblyReference.cache
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\ConsoleCade\obj\Debug\ConsoleCade.exe
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\ConsoleCade\obj\Debug\ConsoleCade.pdb
