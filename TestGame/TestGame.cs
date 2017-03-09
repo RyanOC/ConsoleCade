@@ -6,7 +6,7 @@ using Abstracts;
 namespace TestGame
 {
     [Export(typeof(IGame))]
-    public class TestGame : IGame
+    public class TestGame : GameBase, IGame
     {
         public string Name => "Test Game";
 
@@ -22,16 +22,6 @@ namespace TestGame
             Console.Read();
 
             //http://stackoverflow.com/questions/5891538/listen-for-key-press-in-net-console-app
-        }
-
-        public void UnLoad()
-        {
-            Console.WriteLine("Would you like to exit the game? y or n");
-            string answer = Console.ReadLine();
-            if(answer != "y")
-            {
-                Console.ReadLine();
-            }
         }
     }
 }
