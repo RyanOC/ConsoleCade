@@ -1,4 +1,0 @@
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\Abstracts\bin\Debug\Abstracts.dll
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\Abstracts\bin\Debug\Abstracts.pdb
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\Abstracts\obj\Debug\Abstracts.dll
-C:\Users\RConnolly\Google Drive\dev\ConsoleCade\Abstracts\obj\Debug\Abstracts.pdb
