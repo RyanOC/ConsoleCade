@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGame", "TestGame\TestGa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGame2", "TestGame2\TestGame2.csproj", "{3C9DABE7-8460-440C-B4FC-F0B0D1A7FE19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FallingRocks", "FallingRocks\FallingRocks.csproj", "{559149B3-4E95-4BD4-9FD2-B6E6A8291F17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{3C9DABE7-8460-440C-B4FC-F0B0D1A7FE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C9DABE7-8460-440C-B4FC-F0B0D1A7FE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C9DABE7-8460-440C-B4FC-F0B0D1A7FE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{559149B3-4E95-4BD4-9FD2-B6E6A8291F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559149B3-4E95-4BD4-9FD2-B6E6A8291F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559149B3-4E95-4BD4-9FD2-B6E6A8291F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559149B3-4E95-4BD4-9FD2-B6E6A8291F17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -42,5 +48,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{22AC24F7-F47B-4588-8DA6-E457C814F114} = {BFC6901D-5AD4-4256-98C1-5E3016530D31}
 		{3C9DABE7-8460-440C-B4FC-F0B0D1A7FE19} = {BFC6901D-5AD4-4256-98C1-5E3016530D31}
+		{559149B3-4E95-4BD4-9FD2-B6E6A8291F17} = {BFC6901D-5AD4-4256-98C1-5E3016530D31}
 	EndGlobalSection
 EndGlobal

@@ -6,6 +6,7 @@ using System.ComponentModel.Composition.Registration;
 using Abstracts;
 using ConsoleHotKey;
 using System.Windows.Forms;
+using System.IO;
 
 namespace ConsoleCade
 {
@@ -69,7 +70,7 @@ namespace ConsoleCade
             //aggregateCatalog.Catalogs.Add(new DirectoryCatalog(@"C:\Users\RConnolly\Google Drive\dev\ConsoleCade\TestGame\bin\Debug"));
             //aggregateCatalog.Catalogs.Add(new DirectoryCatalog(@"C:\Users\RConnolly\Google Drive\dev\ConsoleCade\TestGame2\bin\Debug"));
 
-            aggregateCatalog.Catalogs.Add(new DirectoryCatalog(@"C:\Users\RConnolly\Google Drive\dev\ConsoleCade\ConsoleCade\Games"));
+            aggregateCatalog.Catalogs.Add(new DirectoryCatalog(Path.GetFullPath(@"..\..\Games")));
 
             var container = new CompositionContainer(aggregateCatalog);
 
