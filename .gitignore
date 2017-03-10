@@ -265,5 +265,8 @@ paket-files/
 __pycache__/
 *.pyc
 
+ConsoleCade/Games/
+
+
 # Cake - Uncomment if you are using it
 # tools/
